@@ -27,3 +27,5 @@ The app comes with a complete User Registration system and CRUD functionality fo
 - **Authentication:** Django's built-in authentication
 - **Front-end:** HTML/CSS (You can specify if you have used any specific CSS framework)
 
+## Fork from 
+https://github.com/divanov11/Django-To-Do-list-with-user-authentication
